@@ -17,7 +17,7 @@ Evaluating OMR sheets manually is time-consuming and error-prone. This project a
    https://github.com/<nvaishnavi029-lang>/OMR-Automation.git
 
 ## Install required libraries
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 ## Usage
 1. Open the Streamlit app:
@@ -33,6 +33,7 @@ OMR-Automation/
 
 ## License
 This project is for hackathon purposes only.
+
 
 
 
