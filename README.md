@@ -15,7 +15,7 @@ Evaluating OMR sheets manually is time-consuming and error-prone. This project a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<Vaishnavi N>/OMR-Automation.git
+   git clone https://github.com/<nvaishnavi029-lang>/OMR-Automation.git
 
 ## Usage
 1. Open the Streamlit app:
@@ -32,6 +32,7 @@ OMR-Automation/
 
 ## License
 This project is for hackathon purposes only.
+
 
 
 
